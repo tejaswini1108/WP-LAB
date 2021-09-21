@@ -8,3 +8,4 @@
 <a href="https://en.wikipedia.org/wiki/Local_area_network">LAN</a>
 </body>
 </html>
+output link:file:///C:/Users/pc/OneDrive/Documents/wp/4.htm
