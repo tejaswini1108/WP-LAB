@@ -28,4 +28,3 @@ Terrestrial weather occurs almost exclusively in the lower part of the atmospher
 <a href="#top">link to top</a>
 </body>
 </html>
-output link:file:///C:/Users/pc/OneDrive/Documents/wp/6.htm
