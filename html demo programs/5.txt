@@ -7,3 +7,4 @@
 <a href="https://en.wikipedia.org/wiki/Nature"><img src="C:/Users/pc/OneDrive/Desktop/nat 1.jpg "width="500" height="500"/></a>
 </body>
 </html>
+output link:file:///C:/Users/pc/OneDrive/Documents/wp/5.htm
