@@ -6,7 +6,7 @@
 <b><h1 style = "color : blue ">INFORMATION TECHNOLOGY</h1></b>
     <p>IT is a bachelor’s degree course in Information Technology, which has a duration of 4 years, but it can be extended up to 6 years. BTech Information Technology is the study of computer-based systems and deals with both hardware as well as software components of a computer system.It focuses basically in the field of computers and technology. It differs from Computer Science engineering in the aspect because in BTech students are expected to learn management and information theory. It includes a detailed study of programming and of the software computer.
      </p>
-      <p> IT prepares students in the concepts of software development, information security, business software, maintaining databases and networks during the 4 years of education. BTech IT directs towards a bright future in the fields of software engineering and development. 
+      <p> IT prepares students in the concepts of <span style="color:red;font-weight:bold">software development</span>, <span style="color:blue;font-weight:bold">information security,</span> business software, maintaining databases and networks during the 4 years of education. BTech IT directs towards a bright future in the fields of software engineering and development. 
 </p>
 <i><h1 style = "color : pink">COURSES  HIGHLIGHTS</h1></i>
 <ul>
@@ -37,4 +37,4 @@
 
 
 </html>
-output link:file:///C:/Users/pc/OneDrive/Documents/wp/3.htm
+
